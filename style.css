@@ -1,0 +1,27 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background-color: rgb(213, 213, 222);
+	text-align: center;
+}
+label {
+	font-family: "Courier New";
+}
+
+#canvas {
+	margin-top: 50px;
+	cursor:pointer;
+}
+
+::-moz-selection{
+background-color:Transparent;
+color:red;
+}
+
+::selection {
+background-color:Transparent;
+color:red;
+}
+.myclass::-moz-selection,
+.myclass::selection { ... }
