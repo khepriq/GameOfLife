@@ -1,4 +1,4 @@
-GameOfLife
+Game of Life
 ==========
 
 Simple Html5 Game of Life
